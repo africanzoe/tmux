@@ -1,7 +1,8 @@
 tmux conf
 =========
 
-An intuitive and elegant tmux conf profile that you can put inside you home directory: "~/.tmux.conf".
+Intuitive and elegant tmux conf profile that you can put inside your home directory: "~/.tmux.conf".
+
 For more information please check the Ubuntu online man page [here](http://manpages.ubuntu.com/manpages/precise/en/man1/tmux.1.html).
 
 What the config brings:
@@ -19,6 +20,6 @@ By using key binding with the keyword "bind-key" you can have a very useful shor
 
 **N.B**: I used keys for the binding that are not in conflict with the bash shortcuts, that's why for example I use *Ctrl+t* for new window and not *Ctrl+w* because the later is used in bash to remove the last word from the cursor position backward.
 
-If you want to customize the colors here is a table of tmux colors which are the same as the bash colors (so your can use it for you PS1 customization):
+If you want to customize the colors, here is a table of tmux colors which are the same as the bash colors (so your can use it for your PS1 customization as well):
 
 ![tmux colors](colors.png)
